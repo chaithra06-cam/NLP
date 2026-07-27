@@ -18,5 +18,3 @@
 | 6       | Experiment 6                              | 20.07.2026      |
 
 ---
-
-## 📁 Repository Structure
