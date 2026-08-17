@@ -17,5 +17,5 @@
 | 5       | Experiment 5                              | 13.07.2026      |
 | 6       | Experiment 6                              | 20.07.2026      |
 | 7       | Experiment 7                              | 03.08.2026      |
-
+| 8       | Experiment 8                              | 17.08.2026      |
 ---
